@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there! My name is Jonatan Männchen. 👋
 
+For enquiries, reach out to jonatan@maennchen.ch or on [Twitter](https://twitter.com/maennchen_).
+
+![maennchen's github stats](https://github-readme-stats.vercel.app/api?username=maennchen&count_private=true&show_icons=true)
 <!--
 **maennchen/maennchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
